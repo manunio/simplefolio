@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://manunio.github.io/simplefolio/#!', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
